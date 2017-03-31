@@ -9,7 +9,7 @@ Please see the [OWASP ModSecurity Core Rule Set page](https://modsecurity.org/cr
 
 ## Contact US
 
-:: Abdal.Group@Gmail.Com
+Abdal.Group@Gmail.Com
 
 
 
